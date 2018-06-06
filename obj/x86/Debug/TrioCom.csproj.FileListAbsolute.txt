@@ -1,0 +1,13 @@
+C:\Users\samet\documents\visual studio 2010\Projects\TrioCom\TrioCom\obj\x86\Debug\TrioCom.Form1.resources
+C:\Users\samet\documents\visual studio 2010\Projects\TrioCom\TrioCom\obj\x86\Debug\TrioCom.Properties.Resources.resources
+C:\Users\samet\documents\visual studio 2010\Projects\TrioCom\TrioCom\obj\x86\Debug\TrioCom.csproj.GenerateResource.Cache
+C:\Users\samet\documents\visual studio 2010\Projects\TrioCom\TrioCom\obj\x86\Debug\TrioCom.csprojResolveAssemblyReference.cache
+C:\Users\samet\documents\visual studio 2010\Projects\TrioCom\TrioCom\bin\Debug\TrioMobil Configurator Tools.exe.config
+C:\Users\samet\documents\visual studio 2010\Projects\TrioCom\TrioCom\bin\Debug\TrioMobil Configurator Tools.exe
+C:\Users\samet\documents\visual studio 2010\Projects\TrioCom\TrioCom\obj\x86\Debug\TrioMobil Configurator Tools.exe
+C:\Users\samet\documents\visual studio 2010\Projects\TrioCom\TrioCom\obj\x86\Debug\TrioCom.Form3.resources
+C:\Users\samet\documents\visual studio 2010\Projects\TrioCom\TrioCom\obj\x86\Debug\TrioCom.About.resources
+C:\Users\samet\documents\visual studio 2010\Projects\TrioCom\TrioCom\obj\x86\Debug\TrioCom.Uyari.resources
+C:\Users\samet\documents\visual studio 2010\Projects\TrioCom\TrioCom\obj\x86\Debug\TrioCom.catch_datas.resources
+C:\Users\samet\documents\visual studio 2010\Projects\TrioCom\TrioCom\bin\Debug\TrioMobil Configurator Tools.pdb
+C:\Users\samet\documents\visual studio 2010\Projects\TrioCom\TrioCom\obj\x86\Debug\TrioMobil Configurator Tools.pdb

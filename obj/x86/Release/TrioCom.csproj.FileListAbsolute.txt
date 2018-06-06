@@ -1,0 +1,9 @@
+C:\Users\samet\Documents\Visual Studio 2010\Projects\TrioCom\TrioCom\bin\Release\TrioCom.exe
+C:\Users\samet\Documents\Visual Studio 2010\Projects\TrioCom\TrioCom\bin\Release\TrioCom.pdb
+C:\Users\samet\Documents\Visual Studio 2010\Projects\TrioCom\TrioCom\obj\x86\Release\TrioCom.Alert.resources
+C:\Users\samet\Documents\Visual Studio 2010\Projects\TrioCom\TrioCom\obj\x86\Release\TrioCom.Form1.resources
+C:\Users\samet\Documents\Visual Studio 2010\Projects\TrioCom\TrioCom\obj\x86\Release\TrioCom.Properties.Resources.resources
+C:\Users\samet\Documents\Visual Studio 2010\Projects\TrioCom\TrioCom\obj\x86\Release\TrioCom.csproj.GenerateResource.Cache
+C:\Users\samet\Documents\Visual Studio 2010\Projects\TrioCom\TrioCom\obj\x86\Release\TrioCom.exe
+C:\Users\samet\Documents\Visual Studio 2010\Projects\TrioCom\TrioCom\obj\x86\Release\TrioCom.pdb
+C:\Users\samet\Documents\Visual Studio 2010\Projects\TrioCom\TrioCom\bin\Release\TrioCom.exe.config
